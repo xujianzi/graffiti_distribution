@@ -1,0 +1,5 @@
+﻿# VS code：
+*.code-workspace
+
+# Python:
+twitter_credentials.py
